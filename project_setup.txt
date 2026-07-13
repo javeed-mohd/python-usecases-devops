@@ -1,0 +1,14 @@
+- When working with any project using python, it is necessary to separate the libraries that are used in that project.
+- Or, it is better we use a virtual environment.
+
+- In python, we can create virtual environments using "venv" module.
+- This is just one way of creating a virtual environment.
+- E.g. python -m venv <your environment name>
+
+- To activate: source <your environment name>/Scripts/activate
+
+- How to work with Github repositories
+- How to start/stop instances in ec2 as per cron schedule
+- How to work with Paramiko library
+
+- Please go through Modules and packages, API related concepts (get, post, put/patch, delete), file handling, List comprehension, spot_instances, exception handling concepts.
